@@ -1,0 +1,4 @@
+.navigation-link > li a:link,
+.navigation-link > li a:visited {
+  color: #598fbe;
+}

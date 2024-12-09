@@ -1,0 +1,36 @@
+#services-footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+
+#services-footer,
+#services-footer > .services-footer-nav {
+  text-align: center;
+  background-color: #101010;
+}
+
+.services-footer-nav {
+  padding: 15px 32px;
+  height: 35px;
+  min-height: 0;
+}
+
+#services-footer > nav > ul {
+  margin-bottom: 0;
+}
+
+#services-footer > hr {
+  width: 90%;
+  display: inline-block;
+}
+
+#services-footer > p {
+  color: white;
+  margin: 10px;
+}
+
+.navigation-link > li a:link,
+.navigation-link > li a:visited {
+  color: #598fbe;
+}
